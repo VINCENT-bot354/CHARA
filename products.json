@@ -1,13 +1,5 @@
 [
     {
-        "name": "Mara",
-        "type": "shoe",
-        "color": "white",
-        "size": "40",
-        "price": "1000",
-        "featured": true
-    },
-    {
         "name": "Willow",
         "type": "",
         "color": "",
@@ -801,6 +793,14 @@
     },
     {
         "name": "Nova",
+        "type": "",
+        "color": "",
+        "size": "",
+        "price": "",
+        "featured": false
+    },
+    {
+        "name": "Mara",
         "type": "",
         "color": "",
         "size": "",
