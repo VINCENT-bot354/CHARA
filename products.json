@@ -9,10 +9,10 @@
     },
     {
         "name": "Sahara",
-        "type": "",
-        "color": "",
-        "size": "",
-        "price": "",
+        "type": "dress",
+        "color": "red",
+        "size": "size 8",
+        "price": "500",
         "featured": false
     },
     {
