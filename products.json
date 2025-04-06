@@ -10,7 +10,7 @@
     {
         "name": "SAHARA",
         "type": "shoe",
-        "color": "red",
+        "color": "Red",
         "size": "size 8",
         "price": "500",
         "featured": false
