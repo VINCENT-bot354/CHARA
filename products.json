@@ -5,7 +5,7 @@
         "color": "white",
         "size": "40",
         "price": "1000",
-        "featured": True
+        "featured": false
     },
     {
         "name": "Sahara",
@@ -805,6 +805,6 @@
         "color": "white",
         "size": "medium",
         "price": "400",
-        "featured": True
+        "featured": false
     }
 ]
