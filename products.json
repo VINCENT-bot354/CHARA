@@ -5,7 +5,7 @@
         "color": "white",
         "size": "40",
         "price": "1000",
-        "featured": false
+        "featured": True
     },
     {
         "name": "Sahara",
@@ -801,10 +801,10 @@
     },
     {
         "name": "Mara",
-        "type": "",
-        "color": "",
-        "size": "",
-        "price": "",
-        "featured": false
+        "type": "dress",
+        "color": "white",
+        "size": "medium",
+        "price": "400",
+        "featured": True
     }
 ]
