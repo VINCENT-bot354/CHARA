@@ -1,10 +1,10 @@
 [
     {
         "name": "Willow",
-        "type": "",
-        "color": "",
-        "size": "",
-        "price": "",
+        "type": "shoe",
+        "color": "white",
+        "size": "40",
+        "price": "1000",
         "featured": false
     },
     {
