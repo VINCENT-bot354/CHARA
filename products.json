@@ -17,10 +17,10 @@
     },
     {
         "name": "Venus",
-        "type": "",
-        "color": "",
-        "size": "",
-        "price": "",
+        "type": "dress",
+        "color": "checked",
+        "size": "size 6-10",
+        "price": "600",
         "featured": false
     },
     {
