@@ -802,7 +802,7 @@
     {
         "name": "Mara",
         "type": "dress",
-        "color": "white",
+        "color": "",
         "size": "medium",
         "price": "400",
         "featured": false
