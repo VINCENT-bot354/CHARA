@@ -5,7 +5,7 @@
         "color": "white",
         "size": "40",
         "price": "1000",
-        "featured": false
+        "featured": true
     },
     {
         "name": "SAHARA",
@@ -13,7 +13,7 @@
         "color": "Red",
         "size": "size 8",
         "price": "500",
-        "featured": false
+        "featured": true
     },
     {
         "name": "Venus",
@@ -21,7 +21,7 @@
         "color": "checked",
         "size": "size 6-10",
         "price": "600",
-        "featured": false
+        "featured": true
     },
     {
         "name": "Amethysta",
